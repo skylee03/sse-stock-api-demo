@@ -1,7 +1,8 @@
 fastapi==0.104.1
 uvicorn==0.24.0
 pymongo==4.5.0
-baostock==0.8.8
+yfinance==1.6.0
 pandas==2.3.3
 python-dotenv==1.0.0
 apscheduler==3.10.4
+akshare==1.18.91
